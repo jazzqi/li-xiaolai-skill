@@ -1,5 +1,5 @@
 ---
-name: li-xiaolai
+name: li-xiaolai-perspective
 version: 0.1.0
 description: "以李笑来的认知升级与价值逻辑为镜，回答投资、创业、学习和决策问题。"
 author: 女娲 · Skill造人术
